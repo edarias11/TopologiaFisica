@@ -1,1 +1,2 @@
-# TopologiaFisica
+# Topologia
+FisicaDiseñé e implementé una simulación de infraestructura de red de una empresa de comercio electrónico con oprecaciones en distintos lugares.El diseño de la red aseguró un 99 porciento de disponibilidad para su plataforma de comencio electrónico, abordando aspectos clave como infraestructura, seguridad, ancho de banda, redundancia y priorización de servicios. Se realizaron evaluaciones de vulnerabilidades y se generaron reportes detallados para monitorear el rendimiento de la red y optimizar la entrega de servicios.
